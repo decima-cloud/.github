@@ -34,3 +34,4 @@ Welcome to Decima, your forefront partner in integrating state-of-the-art techno
 ## Contributing to Decima
 
 We highly value contributions from our community! Whether you're fixing a bug, suggesting a new feature, or submitting a pull request, your contribution is immensely appreciated.
+Note that we don't have issues enabled for our projects. This is because all of our issues are tracked internally through notion.
