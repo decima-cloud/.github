@@ -4,7 +4,7 @@ Welcome to Decima, your forefront partner in integrating state-of-the-art techno
 
 ## Quick Links
 
-- **Documentation**: Access our full documentation at [Decima Docs](https://mirror-modem-bdf.notion.site/Decima-Docs-43379bc5599140b7b5e29552572aa950?pvs=4)
+- **Documentation**: Access our full documentation at [Decima Docs](https://decima-cloud.notion.site/Decima-Docs-Public-43379bc5599140b7b5e29552572aa950)
 - **Support**: For any support inquiries, please visit [Decima Support](https://decimamedia.com/support)
 
 ## Support and Documentation
